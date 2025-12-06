@@ -1,26 +1,48 @@
-# **@Ranto Handraina**  
-_Transforming ideas into innovative digital experiences!_ 🚀  
+# Ranto Handraina  
+**Développeur Full-Stack | Création de solutions web évolutives et centrées sur l'utilisateur**
 
-## 🌟 Profile  
-- **Full-Stack Web Developer**  
-- Proficient in various programming languages  
-- Expertise in web design and development  
+👋 Bienvenue sur mon profil GitHub ! Je suis un Développeur Full-Stack passionné, spécialisé dans la création d'expériences digitales propres, efficaces et impactantes. J'aime transformer des problèmes complexes en solutions simples, élégantes et intuitives.
 
-## 📫 Get in Touch  
-- **LinkedIn**: [Handraina Ranto](https://www.linkedin.com/in/handraina-ranto)  
-- **Email**:  
-  - [ranto.rafalimanana.2@gmail.com](mailto:ranto.rafalimanana.2@gmail.com)  
-  - [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com)  
-- **WhatsApp**: [+261 38 13 277 37](https://wa.me/261381327737)  
+---
 
-## 🛠️ Technologies & Tools  
+## Technologies & Compétences
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### 📊 Database  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-### ⚙️ Tools & Environments  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+### Bases de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Outils & Environnements
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Contactez-moi
+
+Je suis toujours ouvert aux discussions techniques, collaborations ou opportunités.
+
+- **LinkedIn :** [Handraina Ranto](https://www.linkedin.com/in/handraina-ranto)  
+- **Email :** [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com)  
+- **Portfolio :** *[ranto-io](https://ranto-io.vercel.app/)*  
+- **GitHub :** [ImRanto](https://github.com/ImRanto)
+
+---
+
+*Merci de votre visite ! N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez échanger.*
