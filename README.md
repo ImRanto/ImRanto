@@ -38,7 +38,7 @@
 
 Je suis toujours ouvert aux discussions techniques, collaborations ou opportunités.
 
-- **LinkedIn :** [Handraina Ranto](https://www.linkedin.com/in/handraina-ranto-78a00b299/)
+- **LinkedIn :** [RAFALIMANANA Ranto H.]((https://www.linkedin.com/in/ranto-rafalimanana-78a00b299/))
 - **Email :** [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com)  
 - **Portfolio :** *[ranto-io](https://ranto-io.vercel.app/)* 
 
