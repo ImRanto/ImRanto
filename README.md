@@ -1,4 +1,4 @@
-# Ranto Handraina  
+# Ranto Rafalimanana (ImRanto)  
 **Développeur Full-Stack | Création de solutions web évolutives et centrées sur l'utilisateur**
 
 👋 Bienvenue sur mon profil GitHub ! Je suis un Développeur Full-Stack passionné, spécialisé dans la création d'expériences digitales propres, efficaces et impactantes. J'aime transformer des problèmes complexes en solutions simples, élégantes et intuitives.
