@@ -45,3 +45,9 @@ Je suis toujours ouvert aux discussions techniques, collaborations ou opportunit
 ---
 
 *Merci de votre visite ! N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez échanger.*
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
