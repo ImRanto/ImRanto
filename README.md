@@ -1,11 +1,26 @@
-# Ranto Rafalimanana (ImRanto)  
-**Développeur Full-Stack | Création de solutions web évolutives et centrées sur l'utilisateur**
+<div align="center">
 
-👋 Bienvenue sur mon profil GitHub ! Je suis un Développeur Full-Stack passionné, spécialisé dans la création d'expériences digitales propres, efficaces et impactantes. J'aime transformer des problèmes complexes en solutions simples, élégantes et intuitives.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=99999999&color=58A6FF&center=true&vCenter=true&width=700&height=60&repeat=false&lines=RAFALIMANANA+Ranto+Handraina)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%C2%B7+Building+scalable%2C+user-centered+web+experiences)](https://git.io/typing-svg)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+profile!;I+turn+complex+problems+into+elegant+solutions.;Clean+code.+Impactful+products.+Scalable+systems.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## Technologies & Compétences
+## About Me
+
+I'm a passionate **Full-Stack Developer** dedicated to crafting clean, efficient, and impactful digital experiences. I thrive on turning complex problems into simple, elegant, and intuitive solutions — from pixel-perfect interfaces to robust back-end architectures.
+
+Whether it's a new product idea or an existing system in need of improvement, I bring both technical rigor and creative thinking to every project.
+
+---
+
+## Technologies & Skills
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,10 +37,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-### Bases de données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### Outils & Environnements
+### Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -34,20 +49,30 @@
 
 ---
 
-## Contactez-moi
+## Get in Touch
 
-Je suis toujours ouvert aux discussions techniques, collaborations ou opportunités.
+I'm always open to meaningful conversations — whether it's about a technical challenge, a potential collaboration, or an exciting opportunity.
 
-- **LinkedIn :** [RAFALIMANANA Ranto H.](https://www.linkedin.com/in/ranto-rafalimanana-78a00b299/)
-- **Email :** [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com)  
-- **Portfolio :** *[ranto-io](https://ranto-io.vercel.app/)* 
+| | |
+|---|---|
+| **LinkedIn** | [RAFALIMANANA Ranto H.](https://www.linkedin.com/in/ranto-rafalimanana-78a00b299/) |
+| **Email** | [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com) |
+| **Portfolio** | [ranto-io.vercel.app](https://ranto-io.vercel.app/) |
 
 ---
 
-*Merci de votre visite ! N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez échanger.*
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repositories and reach out anytime!* 🚀
 
 </div>
