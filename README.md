@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=99999999&color=58A6FF&center=true&vCenter=true&width=700&height=60&repeat=false&lines=RAFALIMANANA+Ranto+Handraina)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer+%C2%B7+Building+scalable%2C+user-centered+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=2000&color=8B949E&center=true&vCenter=true&width=700&height=40&repeat=false&lines=Full-Stack+Developer+%C2%B7+Building+scalable%2C+user-centered+web+experiences)](https://git.io/typing-svg)
 
 <br/>
 
