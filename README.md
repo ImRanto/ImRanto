@@ -69,8 +69,8 @@ I'm always open to meaningful conversations — whether it's about a technical c
 ## Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  
+<img src="https://im-ranto-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
