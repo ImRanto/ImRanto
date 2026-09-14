@@ -70,7 +70,7 @@ I'm always open to meaningful conversations — whether it's about a technical c
 
 <div align="center">
   
-<img src="https://im-ranto-activity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://act1vity-graph.vercel.app/graph?username=ImRanto&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
