@@ -62,7 +62,7 @@ I'm always open to meaningful conversations — whether it's about a technical c
 |---|---|
 | **LinkedIn** | [RAFALIMANANA Ranto H.](https://www.linkedin.com/in/ranto-rafalimanana-78a00b299/) |
 | **Email** | [hei.ranto.2@gmail.com](mailto:hei.ranto.2@gmail.com) |
-| **Portfolio** | [ranto-io.vercel.app](https://ranto-io.vercel.app/) |
+| **Portfolio** | [ranto-io.vercel.app](https://ranto-rafalimanana.vercel.app/) |
 
 ---
 
